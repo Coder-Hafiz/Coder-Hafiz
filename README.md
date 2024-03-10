@@ -2,8 +2,6 @@
 #### Junior Python Developer & Front-End Engineer 👨‍🎓
 ![](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/350961829_3556323821350322_6541842919340584829_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=zVtoagcZOgMAX9VcO8n&_nc_ht=scontent.fdac24-1.fna&oh=00_AfDC9SBhAAnJ8wz7pERgsG78jrPoT6pVDqsBid5Mo9eQyw&oe=64CE6BDA)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills:  PYTHON / JS / HTML / CSS / WordPress / REACT / Native / Bootstrap 5
 
 - 🔭 I’m currently working on My Project  
@@ -19,8 +17,6 @@ Skills:  PYTHON / JS / HTML / CSS / WordPress / REACT / Native / Bootstrap 5
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-Hafiz&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Coder-Hafiz)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Coder-Hafiz)  
 
