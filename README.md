@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Hafiz
-#### Web Developer
-![Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/350961829_3556323821350322_6541842919340584829_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=zVtoagcZOgMAX9VcO8n&_nc_ht=scontent.fdac24-1.fna&oh=00_AfDC9SBhAAnJ8wz7pERgsG78jrPoT6pVDqsBid5Mo9eQyw&oe=64CE6BDA)
+#### Junior Python Developer & Front-End Engineer 👨‍🎓
+![](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/350961829_3556323821350322_6541842919340584829_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=zVtoagcZOgMAX9VcO8n&_nc_ht=scontent.fdac24-1.fna&oh=00_AfDC9SBhAAnJ8wz7pERgsG78jrPoT6pVDqsBid5Mo9eQyw&oe=64CE6BDA)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  PYTHON / JS / HTML / CSS /
+Skills:  PYTHON / JS / HTML / CSS / WordPress / REACT / Native / Bootstrap 5
 
 - 🔭 I’m currently working on My Project  
-- 🌱 I’m currently learning JS / PYTHON  
+- 🌱 I’m currently learning JS / REACT / PYTHON  
 - 👯 I’m looking to collaborate on My Personal Coder 😉 
 - 🤔 I’m looking for help with Web Development 
 - 💬 Ask me about Web Site's 
